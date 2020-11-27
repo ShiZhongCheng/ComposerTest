@@ -1,0 +1,16 @@
+{
+    "name": "shizhongcheng/composer-test",
+    "authors": [
+        {
+            "name": "szc",
+            "email": "daobugo@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SZC\\": "src/"
+        }
+    }
+}
